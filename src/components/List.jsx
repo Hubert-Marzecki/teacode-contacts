@@ -66,7 +66,7 @@ export default function List({ items }) {
         </header>
         <label htmlFor="search text-white">Find Contact</label>
         <input
-          placeholder="name / lastname"
+          placeholder="name / last name"
           id="search"
           value={search}
           onChange={(e) => searchChange(e)}
