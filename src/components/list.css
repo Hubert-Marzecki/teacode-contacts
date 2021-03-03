@@ -1,0 +1,15 @@
+.list{
+    max-height: 60vh;
+    overflow-y: scroll;
+}
+
+.list_holder{
+    height: 90vh;
+}
+.avatar{
+    height: 35px;
+    width: 35px;
+    max-width: 35px;
+    border-radius: 100%;
+    background-color: rgb(255, 235, 205);
+}
